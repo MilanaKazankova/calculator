@@ -1,3 +1,3 @@
 ## 📥 Скачать
 
-👉 [Скачать последнюю версию (MyApp_v1.0.exe)](https://github.com/твой-логин/репо/releases/latest/download/MyApp_v1.0.exe)
+👉 [Скачать последнюю версию](https://github.com/MilanaKazankova/Calculator/releases/latest/download/Calculator_Installer_v1.0.exe)
